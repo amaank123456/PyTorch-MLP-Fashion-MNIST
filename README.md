@@ -1,1 +1,1 @@
-# PyTorch-MLP-Fashion-MNIST-
+# PyTorch-MLP-Fashion-MNIST
